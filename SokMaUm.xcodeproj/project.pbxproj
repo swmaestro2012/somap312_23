@@ -55,10 +55,6 @@
 		5B2C9A3316584ADC002D07BB /* poke_choice_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A2916584ADB002D07BB /* poke_choice_btn@2x.png */; };
 		5B2C9A3816584ADC002D07BB /* poke_photo_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A2E16584ADC002D07BB /* poke_photo_bg.png */; };
 		5B2C9A3916584ADC002D07BB /* poke_photo_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A2F16584ADC002D07BB /* poke_photo_bg@2x.png */; };
-		5B2C9A3E16584D15002D07BB /* poke_female_label.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A3A16584D15002D07BB /* poke_female_label.png */; };
-		5B2C9A3F16584D15002D07BB /* poke_female_label@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A3B16584D15002D07BB /* poke_female_label@2x.png */; };
-		5B2C9A4016584D15002D07BB /* poke_male_label.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A3C16584D15002D07BB /* poke_male_label.png */; };
-		5B2C9A4116584D15002D07BB /* poke_male_label@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A3D16584D15002D07BB /* poke_male_label@2x.png */; };
 		5B2C9A4C165850E7002D07BB /* heart_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A44165850E7002D07BB /* heart_bg.png */; };
 		5B2C9A4D165850E7002D07BB /* heart_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A45165850E7002D07BB /* heart_bg@2x.png */; };
 		5B2C9A4E165850E7002D07BB /* heart_buy.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2C9A46165850E7002D07BB /* heart_buy.png */; };
@@ -427,10 +423,6 @@
 		5B2C9A2916584ADB002D07BB /* poke_choice_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poke_choice_btn@2x.png"; sourceTree = "<group>"; };
 		5B2C9A2E16584ADC002D07BB /* poke_photo_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poke_photo_bg.png; sourceTree = "<group>"; };
 		5B2C9A2F16584ADC002D07BB /* poke_photo_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poke_photo_bg@2x.png"; sourceTree = "<group>"; };
-		5B2C9A3A16584D15002D07BB /* poke_female_label.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = poke_female_label.png; path = "../../../../2/내가속마음을 전달한 사람/poke_female_label.png"; sourceTree = "<group>"; };
-		5B2C9A3B16584D15002D07BB /* poke_female_label@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "poke_female_label@2x.png"; path = "../../../../2/내가속마음을 전달한 사람/poke_female_label@2x.png"; sourceTree = "<group>"; };
-		5B2C9A3C16584D15002D07BB /* poke_male_label.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = poke_male_label.png; path = "../../../../2/내가속마음을 전달한 사람/poke_male_label.png"; sourceTree = "<group>"; };
-		5B2C9A3D16584D15002D07BB /* poke_male_label@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "poke_male_label@2x.png"; path = "../../../../2/내가속마음을 전달한 사람/poke_male_label@2x.png"; sourceTree = "<group>"; };
 		5B2C9A44165850E7002D07BB /* heart_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart_bg.png; sourceTree = "<group>"; };
 		5B2C9A45165850E7002D07BB /* heart_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "heart_bg@2x.png"; sourceTree = "<group>"; };
 		5B2C9A46165850E7002D07BB /* heart_buy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart_buy.png; sourceTree = "<group>"; };
@@ -894,10 +886,6 @@
 				5B2C9A2916584ADB002D07BB /* poke_choice_btn@2x.png */,
 				5B2C9A2E16584ADC002D07BB /* poke_photo_bg.png */,
 				5B2C9A2F16584ADC002D07BB /* poke_photo_bg@2x.png */,
-				5B2C9A3A16584D15002D07BB /* poke_female_label.png */,
-				5B2C9A3B16584D15002D07BB /* poke_female_label@2x.png */,
-				5B2C9A3C16584D15002D07BB /* poke_male_label.png */,
-				5B2C9A3D16584D15002D07BB /* poke_male_label@2x.png */,
 			);
 			path = PokeView;
 			sourceTree = "<group>";
@@ -1875,10 +1863,6 @@
 				5B2C9A3316584ADC002D07BB /* poke_choice_btn@2x.png in Resources */,
 				5B2C9A3816584ADC002D07BB /* poke_photo_bg.png in Resources */,
 				5B2C9A3916584ADC002D07BB /* poke_photo_bg@2x.png in Resources */,
-				5B2C9A3E16584D15002D07BB /* poke_female_label.png in Resources */,
-				5B2C9A3F16584D15002D07BB /* poke_female_label@2x.png in Resources */,
-				5B2C9A4016584D15002D07BB /* poke_male_label.png in Resources */,
-				5B2C9A4116584D15002D07BB /* poke_male_label@2x.png in Resources */,
 				5B2C9A4C165850E7002D07BB /* heart_bg.png in Resources */,
 				5B2C9A4D165850E7002D07BB /* heart_bg@2x.png in Resources */,
 				5B2C9A4E165850E7002D07BB /* heart_buy.png in Resources */,
