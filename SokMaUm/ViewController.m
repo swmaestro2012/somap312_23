@@ -163,7 +163,6 @@
     }
     
     
-    
     self.keywordTextField.text = @"";
     [self.keywordTextField resignFirstResponder];
     [self.keywordView removeFromSuperview];
