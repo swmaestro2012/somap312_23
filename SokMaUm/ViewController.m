@@ -26,7 +26,6 @@
     SecurityViewController *securityViewCont = [SecurityViewController new];
     [securityViewCont initView];
     [tabBarCont presentViewController:securityViewCont animated:NO completion:nil];
-    SJ_DEBUG_LOG(@"check");
 }
 //----------------------------------------------------------------------------
 
@@ -162,6 +161,7 @@
         default:
             break;
     }
+    
     
     
     self.keywordTextField.text = @"";

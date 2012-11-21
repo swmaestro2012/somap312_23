@@ -26,7 +26,6 @@
         // Custom initialization
     }
     return self;
-    
 }
 
 - (void)viewDidLoad
@@ -136,7 +135,7 @@
                                [SOKMAUM_APP facebookID] ,@"from_facebook_id",
                                target_facebook_id,@"to_facebook_id",
                                nil];
- 
+
     [APIcall get_message_history:self withParameter:parameter SuccessSelector:@selector(get_message_SUCCESS:) failSelector:@selector(get_message_FAIL:)];
 }
 
